@@ -2,7 +2,7 @@ module.exports = {
   title: 'Flyball Manager Documentation',
   tagline: 'Everything you need to know',
   url: 'https://fbm-docs.netlify.com',
-  baseUrl: '/docs',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'bhall2001', // Usually your GitHub org/user name.
@@ -88,6 +88,7 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/',
+            routeBasePath: '/',
         },
         blog: {
           showReadingTime: true,
