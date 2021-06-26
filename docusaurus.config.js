@@ -88,7 +88,6 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/',
-            routeBasePath: '/',
         },
         blog: {
           showReadingTime: true,
