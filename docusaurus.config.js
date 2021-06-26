@@ -2,7 +2,7 @@ module.exports = {
   title: 'Flyball Manager Documentation',
   tagline: 'Everything you need to know',
   url: 'https://fbm-docs.netlify.com',
-  baseUrl: '/',
+  baseUrl: '/docs',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'bhall2001', // Usually your GitHub org/user name.
