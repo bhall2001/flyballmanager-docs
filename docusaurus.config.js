@@ -2,7 +2,7 @@ module.exports = {
   title: 'Flyball Manager Documentation',
   tagline: 'Everything you need to know',
   url: 'https://fbm-docs.ondeckmanager.com',
-  baseUrl: '/',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'bhall2001', // Usually your GitHub org/user name.
@@ -37,11 +37,11 @@ module.exports = {
           items: [
             {
               label: 'Style Guide',
-              to: 'docs/',
+              to: '/',
             },
             {
               label: 'Second Doc',
-              to: 'docs/doc2/',
+              to: '/doc2/',
             },
           ],
         },
