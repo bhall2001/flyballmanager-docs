@@ -12,7 +12,7 @@ module.exports = {
       title: 'Flyball Manager Docs',
       logo: {
         alt: 'Flyball Manager Logo',
-        src: 'img/logo.svg',
+        src: 'img/tennis_128x128.png',
       },
       items: [
         // {
