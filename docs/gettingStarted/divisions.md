@@ -3,9 +3,9 @@ id: divisions
 title: Divisions
 ---
 
-# Tournament divisions
+# Tournament Divisions
 
-If you've been following along, our practice tournament is starting to come together. We now have 4 clubs entered each with 1 team in the Regular classification and a judge. Now let's get these 4 teams organized into a division and define the format of racing for them.
+If you've been following along, our practice tournament is starting to come together. We now have 4 clubs entered each with 1 team in the Regular classification and a single judge. Now let's get these 4 teams organized into a division and define the format of racing for them.
 
 ## Add a division
 
@@ -21,7 +21,7 @@ Click the "Create" button. You will see our divisions list now shows a Regular 1
 
 We need to fill in the details for this division. Here we will list how many teams are in the division, the racing format, the judge and points awarded for both heat/race wins.
 
-Click Regular 1 in the division list to select it. The right side of the screen now becomes active. Here you can see the details of the classification, division number, breakout time (calculate from the team entries for teams in the division), racing format, judge and tournament points.
+Click Regular 1 in the division list to select it. The right side of the screen now becomes active. Here you can see the details of the classification, division number, breakout time (calculate from the team entries), racing format, judge and tournament points.
 
 Our division has no details just yet so let's add them in!
 
@@ -33,7 +33,7 @@ The team count field indicates how many teams should be in this division. For ou
 
 In a real tournament you will create divisions as needed. For each of those divisions you enter in the number of teams you desire to have in the division.
 
-The total for a particular class (ie. "Regular") should match the total number of teams entered for that classification on the Entries screen. If 14 teams were entered in the Regular class on the Entries screen, the total number of all "Team Count" fields for Regular divisions should be 14.
+The total for a particular class (ie. "Regular") should match the total number of teams entered for that class on the Entries screen. If 14 teams were entered in the Regular class on the Entries screen, the total number of all "Team Count" fields for Regular divisions should be 14.
 
 ### Racing format
 
