@@ -7,7 +7,7 @@ title: Info
 
 Let's get started setting up a tournament. We will create a test tournament while we learn how to use Flyball Manager.
 
-![Docusaurus](/img/tournament-info.png)
+![Tournament Info](/img/tournament-info.png)
 
 ## Basic navigation
 

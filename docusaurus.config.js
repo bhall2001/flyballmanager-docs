@@ -36,12 +36,12 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Introduction',
               to: '/',
             },
             {
-              label: 'Second Doc',
-              to: '/doc2/',
+              label: 'Getting Started',
+              to: '/gettingStarted/info/',
             },
           ],
         },
@@ -76,7 +76,7 @@ module.exports = {
         //   ],
         // },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Robert D. Hall. All rights reserved.`,
     },
   },
   presets: [
