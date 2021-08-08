@@ -11,8 +11,12 @@ module.exports = {
         'gettingStarted/judges',
         'gettingStarted/divisions',
         'gettingStarted/seedChart',
+        'gettingStarted/createSchedule'
       ],
     },
+    'clubs',
+    'teams',
+    'schedule',
     {
       type: 'category',
       label: 'Scoring',
