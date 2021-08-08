@@ -5,7 +5,7 @@ title: Divisions
 
 # Tournament divisions
 
-If you've been following along, our practice tournament is starting to come together. We now have 4 clubs entered each with 1 team in the Regular classification. Now let's get these 4 teams organized into a division and define the format of racing for them.
+If you've been following along, our practice tournament is starting to come together. We now have 4 clubs entered each with 1 team in the Regular classification and a judge. Now let's get these 4 teams organized into a division and define the format of racing for them.
 
 ## Add a division
 
@@ -13,7 +13,7 @@ Navigate to the Tournament Divisions screen. You will see that our practice tour
 
 ![Add Division](/img/divisions-add-division.png)
 
-We need to add a division to the Regular classification. Use the drop down menu to select "Regular". When Flyball Manager adds a division to a tournament, the division number is automatically handled for you. Each time you create a division, the division number for the classification is automatically incremented.
+We need to add a division to the Regular class. Use the drop down menu to select "Regular". When Flyball Manager adds a division to a tournament, the division number is automatically handled for you. Each time you create a division, the division number for the class is automatically incremented.
 
 Click the "Create" button. You will see our divisions list now shows a Regular 1 division.
 
@@ -27,11 +27,17 @@ Our division has no details just yet so let's add them in!
 
 ### Team count
 
-The team count field indicates how many teams should be in this division. For our practice tournament, we set up 4 teams in the Regular classification. Enter "4" in the Team Count field. Now Flyball Manager knows our tournament will have 4 teams in the Regular 1 division.
+The team count field indicates how many teams should be in this division. For our practice tournament, we set up 4 teams. Enter "4" in the Team Count field to include all these teams in this division. Now Flyball Manager knows our tournament will have 4 teams in the Regular 1 division.
+
+![Team Count](/img/divisions-team-count.png)
+
+In a real tournament you will create divisions as needed. For each of those divisions you enter in the number of teams you desire to have in the division.
+
+The total for a particular class (ie. "Regular") should match the total number of teams entered for that classification on the Entries screen. If 14 teams were entered in the Regular class on the Entries screen, the total number of all "Team Count" fields for Regular divisions should be 14.
 
 ### Racing format
 
-Next we need to let Flyball Manager know the format this division will be racing under. We are allowed to have up to 2 different formats for a divisions. This allows for teams to race some number of round robins in one format (4 out of 4) and at some point change to a different format (3 out of 3) in order to keep the total heat races to a certain amount.
+Next we need to let Flyball Manager know the format this division will be racing under. We are allowed to have up to 2 different formats for a division. This allows for teams to race some number of round robins in one format (4 out of 4) and at some point change to a different format (3 out of 3) in order to keep the total heat races to a certain amount.
 
 Typically divisions will race under the same format for the entire tournament. Flyball Manager provides the flexibility to allow changes to the format if desired.
 
