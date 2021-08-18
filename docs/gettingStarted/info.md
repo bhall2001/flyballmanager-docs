@@ -15,7 +15,7 @@ We've tried to make Flyball Manager as easy as possible to use. You will see on 
 
 ![Navigation](/img/fbm-sidebar.png)
 
-When you click one of these menus, a screen opens showing you details about the item you clicked. Some of the screens may have further categories designated by horizontal tabs. Clicking any of the tabs displays the detail screen for the item clicked.
+When you click one of these menus, a screen opens showing you details about the item you clicked. Some screens may have further categories designated by horizontal tabs. Clicking any of the tabs displays the detail screen for the item clicked.
 
 ## Setup tournament
 
@@ -25,9 +25,9 @@ Since we haven't created a tournament, there's nothing to display on the info sc
 
 ### Create tournament
 
-Click the Create button on the screen. 
+Click the Create button on the screen.
 
-![NTournament Create](/img/info-create.png)
+![Tournament Create](/img/info-create.png)
 
 The first thing Flyball Manager is going to do is create a new blank file to store your data. Give the file a name and save it at a location on your computer where you can easily find it again.
 
@@ -48,7 +48,7 @@ Next we need to enter info about our tournament. Give the tournament a name (any
 
 If this wasn't practice most of the data on this screen would be filled out for us. We'll need to fill in our Tournament info now. Feel free to use any data you'd like in these fields, it's just practice ;-)
 
-For the start and end dates, click the calendar icon to open the calender. Click the date your practice tournament starts on. Now do the same for the ending date.
+For the start and end dates, click the calendar icon to open the calendar. Click the date your practice tournament starts on. Now do the same for the ending date.
 
 Be sure to also select a region for your tournament.
 

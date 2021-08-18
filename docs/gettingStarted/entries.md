@@ -5,15 +5,15 @@ title: Entries
 
 # Tournament Entries
 
-Once tournament clubs and teams are finalized,  we need to add the club entries to Flyball Manager. This is done on the Entries screen. Navigate to the Entries screen by clicking the "Entries" tab while on the "Tournament" screen.
+Once tournament clubs and teams are finalized, we need to add the club entries to Flyball Manager. This is done on the Entries screen. Navigate to the Entries screen by clicking the "Entries" tab while on the "Tournament" screen.
 
 ## Add club
 
-The first step needed for entries in our tournament is to add a participating club. The Entries screen has a list of all NAFA registered clubs on the right side. Scroll through the list to find the club needed and click the left arrow or double click the club to add the club to the tournament clubs list.
+The first step needed for entries in our tournament is to add a participating club. The Entries screen has a list of all NAFA registered clubs on the right side. Scroll through the list to find the club needed and click the left arrow or double-click the club to add the club to the tournament clubs list.
 
-Scrolling through all these clubs is not very efficient. Flyball Manager has a smart search field for NAFA clubs. In the search field you can enter a part of a club name or the NAFA club number. Once the club is found, click the left arrow or double click the club to add it to the tournament clubs list.
+Scrolling through all these clubs is not very efficient. Flyball Manager has a smart search field for NAFA clubs. In the search field you can enter a part of a club name or the NAFA club number. Once the club is found, click the left arrow or double-click the club to add it to the tournament clubs list.
 
-For our practice tournament, select the club you belong to in the NAFA club list. For me, that's "B.A.R.K." which I know is NAFA id 1009.
+For our practice tournament, select the club you belong to in the NAFA club list. For me, that's "B.A.R.K." which I know is NAFA ID 1009.
 
 ![Club B.A.R.K.](/img/entries-bark-search.png)
 
