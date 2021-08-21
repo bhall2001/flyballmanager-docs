@@ -1,6 +1,7 @@
 module.exports = {
   someSidebar: [
     'introduction',
+    'releaseNotes',
     {
       type: 'category',
       label: 'Getting Started',
@@ -11,7 +12,7 @@ module.exports = {
         'gettingStarted/judges',
         'gettingStarted/divisions',
         'gettingStarted/seedChart',
-        'gettingStarted/createSchedule'
+        'gettingStarted/createSchedule',
       ],
     },
     'clubs',
