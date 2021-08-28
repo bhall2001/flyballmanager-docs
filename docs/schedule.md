@@ -11,8 +11,14 @@ Flyball Manager generates tournament schedules using official NAFA racing schedu
 
 ### Initial setup
 
-Prior to creating a schedule, a tournament must be created
+Prior to creating a schedule, a tournament must be created with team entries and divisions. Please see the tournament section (coming soon) to learn how to get started with a tournament. Once teams and divisions are created, review the tournament Seed Chart to verify teams and divisions are set up as intended.
+
+## Start order
+
+The first step in generating a schedule is determining the start order for divisions. This is the order that the first race(s) for divisions will follow.
 
 ## Limitations
 
-Flyball Manager currently supports round-robin tournaments only.
+The scheduler supports round-robin tournaments only.
+
+Importing a schedule is not allowed with Flyball Manager.
