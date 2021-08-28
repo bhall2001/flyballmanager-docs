@@ -5,7 +5,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Getting Started',
-      collapsed: false,
+      collapsed: true,
       items: [
         'gettingStarted/info',
         'gettingStarted/entries',
@@ -15,15 +15,13 @@ module.exports = {
         'gettingStarted/createSchedule',
       ],
     },
+    'tournament',
     'clubs',
     'teams',
     'schedule',
-    {
-      type: 'category',
-      label: 'Scoring',
-      collapsed: true,
-      items: ['doc2', 'doc3'],
-    },
+     'scoring',
+    'placements',
+    'forms',
     {
       type: 'category',
       label: 'Project',
