@@ -51,7 +51,9 @@ Used to record the team's entered division, tournament placement in the division
 
 Captain's forms are used to validate team lineups with the club captain. All captain forms should be printed prior to races starting and delivered to team captains. It is common practice for the team captain to sign or initial the Captain's form to confirm the lineup is correct for the team.
 
-Note: It is by choice that Flyball Manger prints each team lineup on a separate page. This ensures that each team's lineup is verified and signed off on with an individual form.
+:::note
+It is by choice that Flyball Manger prints each team lineup on a separate page. This ensures that each team's lineup is verified and signed off on with an individual form.
+:::
 
 ## Total points form
 

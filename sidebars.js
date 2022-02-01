@@ -16,10 +16,11 @@ module.exports = {
       ],
     },
     'tournament',
+    'seedChart',
     'clubs',
     'teams',
     'schedule',
-     'scoring',
+    'scoring',
     'placements',
     'forms',
     {
