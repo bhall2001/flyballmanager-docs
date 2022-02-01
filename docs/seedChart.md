@@ -5,7 +5,7 @@ title: Seed Chart
 
 A critical document to any round-robin tournament is the seed chart. This document communicates the classifications, divisions and seeding order of teams entered in the tournament.
 
-![Seed Chart](/img/seeding-seed-chart.png)
+![Tournament Seed Chart](/img/seed-chart-main.png)
 
 ## Seed chart overview
 
