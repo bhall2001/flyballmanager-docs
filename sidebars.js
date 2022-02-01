@@ -1,7 +1,6 @@
 module.exports = {
   someSidebar: [
     'introduction',
-    'releaseNotes',
     {
       type: 'category',
       label: 'Getting Started',
@@ -15,14 +14,25 @@ module.exports = {
         'gettingStarted/createSchedule',
       ],
     },
-    'tournament',
-    'seedChart',
+    {
+      type: 'category',
+      label: 'Tournament',
+      collapsed: false,
+      items: [
+        'tournament/info',
+        'tournament/entries',
+        'tournament/divisions',
+        'tournament/seedChart',
+        'tournament/judges',
+      ],
+    },
     'clubs',
     'teams',
     'schedule',
     'scoring',
     'placements',
     'forms',
+    'releaseNotes',
     {
       type: 'category',
       label: 'Project',
