@@ -30,3 +30,19 @@ Everything you need to Score and Inform including:
 - Runs on Windows and Mac
 
 Your support fosters the development of the software and makes the system even better. Please spread the word and help to make the software even better.
+
+## System requirements
+
+### Windows
+
+Windows version 10 or 11, 64-bit, 8 GB Ram, 10 GB storage
+
+Minimum resolution: 1366x768
+
+### macOS
+
+10.15.x (Catalina)
+
+11.x (Big Sur)
+
+12.x (Monterey)
