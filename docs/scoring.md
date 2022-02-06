@@ -35,15 +35,15 @@ Teams for the division are indicated in columns. Divide the board horizontal int
 
 Labels for each team are placed in the column under the teams' name. Labels are intended to be placed on the boards in a specific order. Following the steps below reduces confusion about the information communicated by the labels.
 
-The second label (total tournament points) should **ALWAYS** be the first label in the team's column. After each label is printed, the points are updated on this label. Place this label over-top of the prior points total label. 
+The second label for a team's race (total tournament points) should **ALWAYS** be the first label in the team's column on the poster board. Place the point totals label over-top of the prior points total label. 
 
-There should always be only 1 race points total label visible and the label should always be the first label of the team's column.
+There will be only 1 race points total label visible. The label should always be the first label of the team's column.
 
-The first label (race results) should be placed in the first empty space at the bottom of the column for the team. This way each individual race results can be viewed for the team.
+The first label for a teams' race (race results) should be placed in the first empty space at the bottom of the column for the team on the poster board. Each race result label will be available on the team's column of the poster board.
 
-Preferentially the labels will be placed on the board in the order of races. Be sure a team runs multiple times before labels are printed that the labels are posted by the race number in order.
+Labels should be placed on the board in the order of races. If a team runs multiple races before labels are printed, post the labels in order of the race number to reduce confusion when the results are viewed.
 
-## Fixing scoring mistakes
+## Fix scoring mistakes
 
 Mistakes will happen and need correction. Not to worry. After race results are fixed on the scoring screen, new labels can be printed for the race. The label print dialog allows for printing of a single race if needed.
 
