@@ -32,6 +32,7 @@ module.exports = {
     'scoring',
     'placements',
     'forms',
+    'faq',
     'releaseNotes',
     {
       type: 'category',
