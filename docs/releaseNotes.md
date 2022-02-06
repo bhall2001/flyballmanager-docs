@@ -7,6 +7,29 @@ title: Release Notes
 
 All notable changes to Flyball Master...
 
+## 20.3.10 (preview)
+
+* fixed issue with tournament dates showing online as 1 day prior to entered date
+* add race comment and duration
+* built with Livecode 9.6.6
+
+## 20.3.0 (preview)
+
+* online is back -- well it's a start
+* uses web sockets for client messages
+* send ondeck event
+* now uses ondeckmanager.com
+## 20.2.0 (preview)
+
+* now schedules round-robin tournaments
+* Livecode 9.6.5
+## 20.1.0 (preview)
+
+* All new data layer
+* tournament adds entries, divisions, seed chart and judges tabs
+* schedule now shows previous as well as next race counts
+* updated UI of scoring screen
+
 ## 2017.3
 
 * Added Double click dog in Club list inserts into next available spot on team list
