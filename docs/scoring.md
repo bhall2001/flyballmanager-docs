@@ -43,7 +43,7 @@ The first label (race results) should be placed in the first empty space at the 
 
 Preferentially the labels will be placed on the board in the order of races. Be sure a team runs multiple times before labels are printed that the labels are posted by the race number in order.
 
-## Fixing scoring mistakes
+## Fix scoring mistakes
 
 Mistakes will happen and need correction. Not to worry. After race results are fixed on the scoring screen, new labels can be printed for the race. The label print dialog allows for printing of a single race if needed.
 
