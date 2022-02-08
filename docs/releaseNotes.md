@@ -10,7 +10,10 @@ All notable changes to Flyball Master...
 ## 20.3.10 (preview)
 
 * fixed issue with tournament dates showing online as 1 day prior to entered date
+* fix issue where lanes sometimes did not swap when building schedule
 * add race comment and duration
+* C.2 Form 6 races per page
+* ensure .fbm2 extension added on new files
 * built with Livecode 9.6.6
 
 ## 20.3.0 (preview)
