@@ -7,10 +7,15 @@ title: Release Notes
 
 All notable changes to Flyball Master...
 
+## 20.3.12 (preview)
+
+* fixed issue with online sync
+
 ## 20.3.11 (preview)
 
 * removed debugging code on scoring screen
 * fixed issue where online sometimes would not update
+  
 ## 20.3.10 (preview)
 
 * fixed issue with tournament dates showing online as 1 day prior to entered date
