@@ -7,6 +7,11 @@ title: Release Notes
 
 All notable changes to Flyball Master...
 
+## 20.3.14 (preview)
+
+* add tournament comment to Broadcast screen
+* add race comment and duration fields to Scoring screen
+
 ## 20.3.12 (preview)
 
 * fixed issue with online sync
