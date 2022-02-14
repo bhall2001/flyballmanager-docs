@@ -11,13 +11,17 @@ title: Scoring
 
 Race results are posted using labels. The labels communicate the result of each heat as well as the points earned by dogs and the team for the Tournament.
 
-Labels are printed on 1"x4" standard labels. Each race results in 4 labels being printed, 2 each per team. Avery 8161 is a common label for ink jet printers.
+Labels are printed on 1"x4" standard labels. Avery 8161 is a common label for ink jet printers.
+
+![Avery 8161](/img/avery-8161.svg)
+
+### Reading labels
+
+Flyball Manager labels provide information for individual heats as well as points totals for dogs. Each race results in 4 labels being printed, 2 each per team. 
 
 **Single Race Label Example**
 ![Race Labels](/img/single-race-labels.png)
 Sample labels for Race 1, teams BARK Off and Cruisin for a Brusin. 4 labels are printed for the single race.
-
-### Reading labels
 
 Each race a team will end up with 2 labels printed. The first label details the race results as recorded by the Scorer. The label details each heat including the heat number, dogs (by lineup number), the time, whether the heat was won, lost or tied, and the number of NAFA points awarded. The right side of the label details the points awarded for this race for dogs and the team.
 
