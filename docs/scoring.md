@@ -11,13 +11,17 @@ title: Scoring
 
 Race results are posted using labels. The labels communicate the result of each heat as well as the points earned by dogs and the team for the Tournament.
 
-Labels are printed on 1"x4" standard labels. Each race results in 4 labels being printed, 2 each per team. Avery 8161 is a common label for ink jet printers.
+Labels are printed on 1"x4" standard labels. Avery 8161 is a common label for ink jet printers.
+
+![Avery 8161](/img/avery-8161.svg)
+
+### Reading labels
+
+Flyball Manager labels provide information for individual heats as well as points totals for dogs. Each race results in 4 labels being printed, 2 each per team. 
 
 **Single Race Label Example**
 ![Race Labels](/img/single-race-labels.png)
 Sample labels for Race 1, teams BARK Off and Cruisin for a Brusin. 4 labels are printed for the single race.
-
-### Reading labels
 
 Each race a team will end up with 2 labels printed. The first label details the race results as recorded by the Scorer. The label details each heat including the heat number, dogs (by lineup number), the time, whether the heat was won, lost or tied, and the number of NAFA points awarded. The right side of the label details the points awarded for this race for dogs and the team.
 
@@ -60,3 +64,13 @@ The far right of the scoring screen shows an abbreviated view of the race schedu
 Double-click a race to modify online race information. On this screen you are able to change the ring the race will run in, set the race status, adjust the duration of the race and add a comment to the race.
 
 Comments and duration are displayed online to participants viewing the schedule for the tournament.
+
+## Tournament comment
+
+Enter a message on the Broadcast screen for the tournament. This message is displayed to participants viewing tournament information on their mobile device. Enter your message. As soon as you click out of the field the message is broadcast out.
+
+## Race comment and duration
+
+Near the bottom of the scoring screen are entries for both a race comment and duration. Entering information in these fields will broadcast to participants viewing tournament information on a mobile device.
+
+Use these fields to communicate details of a particular race such as for mat time, which dogs will be running. Setting the duration works well if the race represents a build in break for mat time or perhaps lunch. Enter a time in minutes for the break.
