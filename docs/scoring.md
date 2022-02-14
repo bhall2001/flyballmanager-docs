@@ -64,3 +64,13 @@ The far right of the scoring screen shows an abbreviated view of the race schedu
 Double-click a race to modify online race information. On this screen you are able to change the ring the race will run in, set the race status, adjust the duration of the race and add a comment to the race.
 
 Comments and duration are displayed online to participants viewing the schedule for the tournament.
+
+## Tournament comment
+
+Enter a message on the Broadcast screen for the tournament. This message is displayed to participants viewing tournament information on their mobile device. Enter your message. As soon as you click out of the field the message is broadcast out.
+
+## Race comment and duration
+
+Near the bottom of the scoring screen are entries for both a race comment and duration. Entering information in these fields will broadcast to participants viewing tournament information on a mobile device.
+
+Use these fields to communicate details of a particular race such as for mat time, which dogs will be running. Setting the duration works well if the race represents a build in break for mat time or perhaps lunch. Enter a time in minutes for the break.

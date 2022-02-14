@@ -30,6 +30,7 @@ module.exports = {
     'teams',
     'schedule',
     'scoring',
+    'ringsideDisplay',
     'placements',
     'forms',
     'faq',
