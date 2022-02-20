@@ -7,6 +7,10 @@ title: Release Notes
 
 All notable changes to Flyball Master...
 
+## 20.3.17 (preview)
+
+* add completed C.2 Forms
+
 ## 20.3.16 (preview)
 
 * fix issue where height of 6th dog was not printing
