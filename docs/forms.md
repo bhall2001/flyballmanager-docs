@@ -47,6 +47,12 @@ The far right of the heat is used to score the races. The scorer will circle the
 
 Used to record the team's entered division, tournament placement in the division and best time for the tournament.
 
+## Completed C.2 form
+
+Flyball Manager is able to print completed C.2 Forms. The completed C.2 adds all the data entered for a team in a tournament. The completed form can be used to validate data entered during the tournament and as a take-away for team captains.
+
+Printing completed forms is the same process as for blank C.2 forms. Simply select the teams to print and click on the `C.2 Completed Form` button.
+
 ## Captain's form
 
 Captain's forms are used to validate team lineups with the club captain. All captain forms should be printed prior to races starting and delivered to team captains. It is common practice for the team captain to sign or initial the Captain's form to confirm the lineup is correct for the team.
