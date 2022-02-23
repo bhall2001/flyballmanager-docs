@@ -7,9 +7,19 @@ title: Release Notes
 
 All notable changes to Flyball Master...
 
+## 20.3.19 (preview)
+
+* add BO and I to completed C.2 forms
+* fix NAFA generated file when less than 6 dogs with warm up dog
+* changed NAFA file where teams not placing assigned value of 0 for place
+
+## 20.3.18
+
+* fixed bugs with completed C.2 forms
+
 ## 20.3.17 (preview)
 
-* add completed C.2 Forms
+* add completed C.2 forms
 
 ## 20.3.16 (preview)
 
