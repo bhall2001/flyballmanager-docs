@@ -7,7 +7,7 @@ A critical document to any round-robin tournament is the seed chart. This docume
 
 Flyball Manager generates the tournament seed chart from the entries and entered divisions for the tournament.
 
-![Tournament Seed Chart](/img/seed-chart-main.png)
+![Tournament Seed Chart](/img/seed-chart-main.svg)
 
 ## Seed chart overview
 

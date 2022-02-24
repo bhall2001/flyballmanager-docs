@@ -10,7 +10,7 @@ Flyball Manager generates tournament schedules using official NAFA racing schedu
 
 ## Creating a Schedule
 
-![Schedule Screen](/img/schedule-create.png)
+![Schedule Screen](/img/schedule-create.svg)
 ### Initial setup
 
 Prior to creating a schedule, a tournament must be created with team entries and divisions. Please see the tournament section (coming soon) to learn how to get started with a tournament. Once teams and divisions are created, review the tournament Seed Chart to verify teams and divisions are set up as intended.
@@ -27,7 +27,7 @@ Select the checkbox "Reverse Round Robin Lanes" to set the lanes to the reverse 
 
 ## Tournament Schedule Screen
 
-![Schedule Screen](/img/schedule-screen.png)
+![Schedule Screen](/img/schedule-screen.svg)
 
 The schedule shows the details of all races happening for the tournament. This screen allows you to see the details of each race including left and right lane competitors, division, breakout, format and time both club and team have for breaks prior and coming up.
 
@@ -43,7 +43,7 @@ To the right of the arrows is the race number.
 
 Next are details for the teams in the left and right lanes.
 
-![Division](/img/schedule-division.png)
+![Division](/img/schedule-division.svg)
 
 Top number details the classification and division of the team. Bottom number is the breakout for the division.
 

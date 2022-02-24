@@ -13,7 +13,7 @@ All notable changes to Flyball Master...
 * fix NAFA generated file when less than 6 dogs with warm up dog
 * changed NAFA file where teams not placing assigned value of 0 for place
 
-## 20.3.18
+## 20.3.18 (preview)
 
 * fixed bugs with completed C.2 forms
 

@@ -15,7 +15,7 @@ NAFA uses the legal names of folks. Let's say Tom Lamont is judging your tournam
 
 For our practice tournament enter "lam" to find Thomas Lamont as our head judge (by his last name) and click the right arrow to add him to the "Tournament Judges".
 
-![Add Judge](/img/judges-add-judge.png)
+![Add Judge](/img/judges-add-judge.svg)
 
 In a real tournament you will continue to add the judges on this screen. Be sure the head judge is the first judge entered.
 

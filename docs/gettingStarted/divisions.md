@@ -63,6 +63,6 @@ And finally, we need to set up how points are awarded for this division. In the 
 
 EXCELLENT! We've really made some progress getting our practice tournament setup.
 
-![Divisions](/img/divisions-screen.png)
+![Divisions](/img/divisions-screen.svg)
 
 Let's have a look at our seed chart.
