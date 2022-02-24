@@ -5,7 +5,7 @@ title: Scoring
 
 # Scoring
 
-![Scoring Screen](/img/scoring-screen.png)
+![Scoring Screen](/img/scoring-screen-v2.svg)
 
 ## Race results
 

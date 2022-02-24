@@ -44,7 +44,7 @@ AWESOME! Now we created a new tournament. But we're just getting started.
 
 Next we need to enter info about our tournament. Give the tournament a name (any name will do but if you need a suggestion how about `Awesome Tournament`). You will see the window title is updated with your tournament name. This way you can keep track of which tournament you are working on with a quick glance.
 
-![Tournament Info](/img/tournament-info.png)
+![Tournament Info](/img/tournament-info.svg)
 
 If this wasn't practice most of the data on this screen would be filled out for us. We'll need to fill in our Tournament info now. Feel free to use any data you'd like in these fields, it's just practice ;-)
 
