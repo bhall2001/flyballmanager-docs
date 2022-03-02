@@ -7,6 +7,19 @@ title: Release Notes
 
 All notable changes to Flyball Master...
 
+## 20.4.1 (preview)
+
+* Schedules show difference in minutes
+* Schedule export uses "|" instead of "/" preventing spreadsheet apps using value as date
+* focus on first time entry field when using next arrow on Scoring screen
+* navigate next/prev race with keyboard arrow keys
+* Interference correctly awards win and tournament points based on new understanding of NAFA rule
+* edit race comment and duration on Schedule screen by double-clicking race row
+* add address field to Tournament Info screen
+* Dashboard screen includes button to zoom app to full screen
+* performance enhancements
+* additional bug fixes
+  
 ## 20.3.19 (preview)
 
 * add BO and I to completed C.2 forms
@@ -75,7 +88,7 @@ All notable changes to Flyball Master...
 * Added Teams sent to flyballmaster.com
 * Added Online Team Results
 * Fixed Save As file becomes main file
-* Fixed Division Format overwrite's schedule's format
+* Fixed Division Format overwrites schedule's format
 * Fixed Dog Label Background on Windows now white
 
 ## 2017.2.2
@@ -95,7 +108,7 @@ All notable changes to Flyball Master...
 * Scoring Screen displays only total potential heats for race
 * Built with Livecode 8.1.3 
 * Added additional auto-saves
-* Club and Team conflicts crossing day boundry no longer show as a conflict
+* Club and Team conflicts crossing day boundary no longer show as a conflict
 * Changing Divison breakout time now correctly updates schedule
 * Schedule allows import of "x/y" race format
 
