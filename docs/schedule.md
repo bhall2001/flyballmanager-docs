@@ -13,7 +13,7 @@ Flyball Manager generates tournament schedules using official NAFA racing schedu
 ![Schedule Screen](/img/schedule-create.svg)
 ### Initial setup
 
-Prior to creating a schedule, a tournament must be created with team entries and divisions. Please see the tournament section (coming soon) to learn how to get started with a tournament. Once teams and divisions are created, review the tournament Seed Chart to verify teams and divisions are set up as intended.
+Prior to creating a schedule, a tournament must be created with team entries and divisions. Please see the tournament section to learn how to get started with a tournament. Once teams and divisions are created, review the tournament Seed Chart to verify teams and divisions are set up as intended.
 
 ### Start order
 
@@ -47,15 +47,15 @@ Next are details for the teams in the left and right lanes.
 
 Top number details the classification and division of the team. Bottom number is the breakout for the division.
 
-**3/9**
+**4/8**
 
-The first number if the number of races the team has raced. Second number is the total number of races in the tournament for the team.
+The first number is the number of races the team has raced. Second number is the total number of races in the round-robin schedule for the team.
 
-**MC**
+**FM**
 
 Team Club abbreviation.
 
-**Big Bang**
+**Funk You Up!**
 
 Team name
 
@@ -63,21 +63,23 @@ Team name
 
 Race Format
 
-The numbers in the schedule detail the left and right lane, previous and next race count for the club or team, top row is previous, bottom is next, left column is the left team, right column for right team. Here's an example.
+The numbers in the schedule detail the left and right lane, previous and next race minutes for the club or team, top row is previous, bottom is next, left column is the left team, right column for right team. Here's an example.
 
-![Division](/img/schedule-prev-next.png)
+![Division](/img/schedule-prev-next.svg)
 
-The 6 above represents the right lane team races again in 6 races (5 race break).
-The 4 above represents the left lane club was in the race 4 races ago (3 races to swap dogs).
-1 means there was no break for the club/team.
+The 80 above represents the left lane team races next in 80 minutes.
 
-The settings screen offers an option to change the number of races for both clubs and teams indicating a conflict. Races that meet these criteria are hilighted in red.
+The 32 above represents the left lane club races next in 16 minutes.
+
+The 90+ indicates the right team raced previously over 90 minutes ago.
+
+The settings screen offers an option to change the number of minutes for both clubs and teams indicating a conflict. Races that meet these criteria are hilighted in red. Reasonable defaults are provided for these settings.
 
 ### Schedule Optimization
 
 The Scheduling engine optimizes the generated schedule. Flyball Manager spaces teams out as much as possible, some effort is made to spread clubs out. After optimization, it is still possible for races to result in inadequate time off for clubs and/or teams. These races are considered to be in "conflict".
 
-Teams are required by rule to have a minimum rest time. When you see a 6 for teams that implies on average they will have had 40 minutes of rest (5 races off * 8 minutes per race average = 40 min)(single ring) which is too short.
+Teams are required by rule to have a minimum rest time. The numbers on each schedule row indicate how many minutes a club/team has had for rest between races.
 
 While Flyball Manager does the best it can, conflicts will still exist in the schedule. Manual intervention will be required to adjust the schedule. Remember that our scheduling engine has made many iterations to arrive at what is believed to be a well optimized schedule.
 
