@@ -33,6 +33,7 @@ module.exports = {
     'ringsideDisplay',
     'placements',
     'forms',
+    'reports',
     'faq',
     'releaseNotes',
     {
