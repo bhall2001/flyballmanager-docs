@@ -9,6 +9,7 @@ All notable changes to Flyball Master...
 
 ## 20.5.1 (preview)
 
+* team, club and division reports added
 * scoring screen shows entries based on number of heats
 * add heat lamp real-time event
 
