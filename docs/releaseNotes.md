@@ -7,6 +7,11 @@ title: Release Notes
 
 All notable changes to Flyball Master...
 
+## 20.5.1 (preview)
+
+* scoring screen shows entries based on number of heats
+* add heat lamp real-time event
+
 ## 20.4.1 (preview)
 
 * Schedules show difference in minutes
