@@ -31,6 +31,10 @@ Select the checkbox "Reverse Round Robin Lanes" to set the lanes to the reverse 
 
 The schedule shows the details of all races happening for the tournament. This screen allows you to see the details of each race including left and right lane competitors, division, breakout, format and time both club and team have for breaks prior and coming up.
 
+:::info
+Flyball Manager shows gaps by estimating **minutes** between races.
+:::
+
 ### Schedule Row
 
 Each row contains information about individual races. Let's break down each section of a single row of the race schedule.
@@ -63,17 +67,29 @@ Team name
 
 Race Format
 
-The numbers in the schedule detail the left and right lane, previous and next race minutes for the club or team, top row is previous, bottom is next, left column is the left team, right column for right team. Here's an example.
+The numbers in the schedule detail the left and right lane, previous and next race **minutes** for the club or team, top row is previous, bottom is next, left column is the left team, right column for right team. Here's an example.
 
 ![Division](/img/schedule-prev-next.svg)
 
-The 80 above represents the left lane team races next in 80 minutes.
+The 80 above represents the left lane team races next in 80 **minutes**.
 
-The 32 above represents the left lane club races next in 16 minutes.
+The 32 above represents the left lane club races next in 32 **minutes**.
 
-The 90+ indicates the right team raced previously over 90 minutes ago.
+The 90+ indicates the right team raced previously over 90 **minutes** ago.
 
 The settings screen offers an option to change the number of minutes for both clubs and teams indicating a conflict. Races that meet these criteria are hilighted in red. Reasonable defaults are provided for these settings.
+
+#### Why minutes instead of race count?
+
+We feel estimating gaps using minutes instead of race counts more accurately represents the estimated time off for a team/club. The trend is for smaller tournament sizes. As a result, breaks are a common occurrence in a schedule to allow adequate rest time for teams.
+
+The current procedure to add breaks is not straight forward, but it can be done. As a result, using the race count for gaps no longer makes sense. In a future version breaks can easily be added to a schedule. Each break can be assigned a duration for the break (in minutes).
+
+Common practice is to include mat time and lunch breaks for smaller tournament sprinkled in to the schedule. Each break is assigned a duration as needed. These breaks help build in required rest time for teams in the schedule.
+
+Let's look at an example. If there is a 30-minute lunch break for a team that races 4 races before the break and is the first race after the break, the race gap for the team is calculated as 4 races (3 races before the break + the break = 4). At face value the value of 4 indicates the team did not have adequate time between races.
+
+Using the minutes' calculation takes into account the 30-minute break. As a result the team gap is calculated as 54 minutes (3 races before break x 8 minutes estimated each + 30-minute break). This more accurately represents the projected gap between races for the team.
 
 ### Schedule Optimization
 
